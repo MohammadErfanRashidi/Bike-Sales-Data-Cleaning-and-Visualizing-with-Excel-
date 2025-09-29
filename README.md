@@ -17,4 +17,6 @@ Steps taken to prepare the dataset:
 ## 🛠️ Tools & Skills Demonstrated
 - **Excel**: Data cleaning, pivot tables, charts, and dashboard design  
 - **Data Analysis**: Identifying correlations and trends across demographics  
-- **Visualization**: Building clear, interactive dashboards for storytelling  
+- **Visualization**: Building clear, interactive dashboards for storytelling
+
+<img width="1658" height="734" alt="image" src="https://github.com/user-attachments/assets/bfd0ec9b-4c73-4117-96a3-a3e41a042207" />
